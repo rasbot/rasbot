@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there, I'm Nathan 👋
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rasbot/rasbot/master/rasbot.gif" width="650" height="auto"/>
+  <p>Expand the solutions to view them.</p>
+</div>
+
+I am a data scientist in the Seattle area. I make games in Unity (including VR and AR content) and have a background in physics. I have taught high school and college physics and am currently working on reinforcement learning in games. Let's collaborate!
 
 <!--
 **rasbot/rasbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
