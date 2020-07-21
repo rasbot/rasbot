@@ -2,10 +2,10 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/rasbot/rasbot/master/rasbot.gif" width="650" height="auto"/>
-  <p>Expand the solutions to view them.</p>
+  <p>  I like robots</p>
 </div>
 
-I am a data scientist in the Seattle area. I make games in Unity (including VR and AR content) and have a background in physics. I have taught high school and college physics and am currently working on reinforcement learning in games. Let's collaborate!
+I am a data scientist in the Seattle area. I make games in Unity (including VR and AR content) and have a background in physics. I have taught high school and college physics and am currently working on reinforcement learning in games. I'm interested in all things data science and have a big interest in artificial general intelligence. Let's collaborate!
 
 <!--
 **rasbot/rasbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
