@@ -1,4 +1,4 @@
-# Hi there, I'm Nathan 👋
+# Hi there, I'm Nathan 👋 🤖
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/rasbot/rasbot/master/rasbot.gif" width="650" height="auto"/>
