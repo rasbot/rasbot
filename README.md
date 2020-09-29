@@ -1,4 +1,4 @@
-# Hi there, I'm Nathan 👋
+# Hi there, I'm Nathan 👋 🤖
 
  <!-- LinkedIn Contact -->
   <a href="https://www.linkedin.com/in/nathanfrasmussen/" target="_blank">
