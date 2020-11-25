@@ -11,8 +11,8 @@
   </a>
 
   <!-- Twitterbot -->
-  <a href="https://www.twitter.com/sasBOTch/" target="_blank">
-    <img src="https://img.shields.io/badge/-BIGFOOT%20TWITTER%20BOT-blue?style=for-the-badge&logo=Twitter&logoColor=white"/>
+  <a href="https://www.twitter.com/plot_bot_/" target="_blank">
+    <img src="https://img.shields.io/badge/-PlotBot%20TWITTER%20BOT-blue?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
   
 </br>
@@ -24,7 +24,9 @@
 
 I am a data scientist in the Seattle area. I make games in Unity (including VR and AR content) and have a background in physics. I have taught high school and college physics and am currently working on reinforcement learning in games. I'm interested in all things data science and have a big interest in artificial general intelligence. Let's collaborate!
 
-🔭 I’m currently working on building a twitter bot that tweets bigfoot sightings using a GPT-2 model trained on web scraped sighting data from bfro.net
+🔭 Recent projects:
+ * A twitter bot that tweets bigfoot sightings using a GPT-2 model trained on web scraped sighting data from bfro.net www.twitter.com/sasBOTch
+ * A twitter bot that tweets movie plots using a GPT-2 model trained on 85,000 movie plots from imdb. www.twitter.com/plot_bot_
 
 <!--
 **rasbot/rasbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
