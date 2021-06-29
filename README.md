@@ -25,6 +25,7 @@
 I am a data scientist in the Seattle area. I make games in Unity (including VR and AR content) and have a background in physics. I have taught high school and college physics and am currently working on reinforcement learning in games. I'm interested in all things data science and have a big interest in artificial general intelligence. Let's collaborate!
 
 🔭 Recent projects:
+ * Using OpenAI's CLIP with VQGAN to generate machine learning art from text prompts.
  * A twitter bot that tweets bigfoot sightings using a GPT-2 model trained on web scraped sighting data from bfro.net www.twitter.com/sasBOTch
  * A twitter bot that tweets movie plots using a GPT-2 model trained on 85,000 movie plots from imdb. www.twitter.com/plot_bot_
 
